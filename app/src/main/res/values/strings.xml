@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadText WebView</string>
+
+    <string name="texts">
+        WebView
+        A View that displays web pages. This class is the basis upon which you can roll your own web browser or simply display some online content within your Activity. It uses the WebKit rendering engine to display web pages and includes methods to navigate forward and backward through a history, zoom in and out, perform text searches and more.
+    </string>
+</resources>
